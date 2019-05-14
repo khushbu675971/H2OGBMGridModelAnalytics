@@ -1,0 +1,8 @@
+#COMMON FILES
+src/main/resources/
+.idea/
+target/
+h2ologs/
+.pml
+*.pml
+*.iml
